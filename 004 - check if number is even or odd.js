@@ -7,8 +7,8 @@ let inputB = 3;
 let inputC = 6000;
 let inputD = 4.0001;
 
-function isEven(num) {
-	if(num % 2 === 0) {
+function isEven(input) {
+	if(input % 2 === 0) {
 		return true;
 	}
 	else {
