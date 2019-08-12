@@ -1,4 +1,4 @@
-# coding-challenges
+# Coding challenges for JS
 
 1. find a target sum by combining numbers from two lists
 2. factorial of a number
