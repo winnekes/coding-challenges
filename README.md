@@ -10,3 +10,9 @@
 8. ~~given a size N, create and print an array of random N numbers~~
 9. ~~print the largest and smallest number in that random array~~
 10. ~~reverse and print that array~~
+11. check if a string that the user gives is palindrome
+12. find the mean of a list
+13. sort a list using bubble sort
+14. sort a list using insertion sort
+15. sort a list using selection sort
+16. find the median of a list
