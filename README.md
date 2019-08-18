@@ -1,6 +1,6 @@
 # Coding challenges for JS
 
-###(11-18/08/19) 
+### (11-18/08/19) 
 1. ~~find a target sum by combining numbers from two lists~~
 2. ~~factorial of a number~~
 3. ~~Fibonacci series~~
