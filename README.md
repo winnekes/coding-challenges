@@ -1,5 +1,6 @@
 # Coding challenges for JS
 
+###(11-18/08/19) 
 1. ~~find a target sum by combining numbers from two lists~~
 2. ~~factorial of a number~~
 3. ~~Fibonacci series~~
@@ -10,7 +11,8 @@
 8. ~~given a size N, create and print an array of random N numbers~~
 9. ~~print the largest and smallest number in that random array~~
 10. ~~reverse and print that array~~
-(11-18/08/19)
+
+ 
 11. check if a string that the user gives is palindrome
 12. find the mean of a list
 13. sort a list using bubble sort
