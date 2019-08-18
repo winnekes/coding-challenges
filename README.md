@@ -1,6 +1,6 @@
 # Coding challenges for JS
 
-1. find a target sum by combining numbers from two lists
+1. ~~find a target sum by combining numbers from two lists~
 2. ~~factorial of a number~~
 3. ~~Fibonacci series~~
 4. ~~check if a number is even or odd~~
